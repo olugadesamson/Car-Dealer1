@@ -151,7 +151,7 @@
         border-radius: 0.5rem;
         transition: 0.5s ease-in-out;
         cursor: pointer;
-        box-shadow: 1px 5px 15px #1e0e3e;
+        box-shadow: 1px 5px 15px #006eff;
         position: relative;
         overflow: hidden;
 
@@ -206,7 +206,7 @@
 
         &:hover {
             flex: 0 0 250px;
-            box-shadow: 1px 3px 15px #7645d8;
+            box-shadow: 1px 3px 15px #45aed8;
             transform: translatey(-30px);
         }
 
